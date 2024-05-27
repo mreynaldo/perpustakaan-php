@@ -12,7 +12,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>APLIKASI PERPUSTAKAAN</title>
+    <title>APLIKASI PERPUSTAKAAN <V class="2"></V></title>
 </head>
 <body>
     <h1>Aplikasi Perpustakaan</h1>
